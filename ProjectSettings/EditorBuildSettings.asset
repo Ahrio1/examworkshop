@@ -9,5 +9,5 @@ EditorBuildSettings:
     path: Assets/Settings/Scenes/2D URP Scene Template.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   m_configObjects:
-    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 684a4f8399d3fe9418405ec3e861c6f7, type: 3}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 1cd6156092b67684ab3fbf498d0b67bb, type: 3}
   m_UseUCBPForAssetBundles: 0
